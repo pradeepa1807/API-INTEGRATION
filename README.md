@@ -1,11 +1,19 @@
 # API-INTEGRATION
 
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+
+NAME: PRADEEPA.R
+
+INTERN ID: CT04DY2191
+
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
 
 # Weather-Dashboard
-Unit 06 homework
 
-See the deployed app here:
-https://ryanellingson.github.io/Weather-Dashboard/
 
 # Project Description
 
